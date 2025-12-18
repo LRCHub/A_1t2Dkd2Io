@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "AAA / 「恋音と雨空」Music Video",
+  "base_artist": "AAA",
+  "createdAt": "2025-12-18T03:28:20.670473Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "AAA",
+      "artist": "Vive La Fête",
+      "has_synced": false,
+      "path": "select/01_AAA_Vive_La_Fête.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "aaa",
+      "artist": "Alpha Wann feat. Nekfeu",
+      "has_synced": true,
+      "path": "select/02_aaa_Alpha_Wann_feat._Nekfeu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "AAA Powerline",
+      "artist": "Ecco2k",
+      "has_synced": true,
+      "path": "select/03_AAA_Powerline_Ecco2k.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "AAA Cercasi",
+      "artist": "Carmen Consoli",
+      "has_synced": false,
+      "path": "select/04_AAA_Cercasi_Carmen_Consoli.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Audio, Video, Disco. - Live / AAA",
+      "artist": "Justice",
+      "has_synced": true,
+      "path": "select/05_Audio,_Video,_Disco._-_Live___AAA_Justice.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Civilization - Live / AAA",
+      "artist": "Justice",
+      "has_synced": false,
+      "path": "select/06_Civilization_-_Live___AAA_Justice.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "D.A.N.C.E. - Live / AAA",
+      "artist": "Justice",
+      "has_synced": false,
+      "path": "select/07_D.A.N.C.E._-_Live___AAA_Justice.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Encore - Live / AAA",
+      "artist": "Justice",
+      "has_synced": false,
+      "path": "select/08_Encore_-_Live___AAA_Justice.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Helix - Live / AAA",
+      "artist": "Justice",
+      "has_synced": false,
+      "path": "select/09_Helix_-_Live___AAA_Justice.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "New Lands - Live / AAA",
+      "artist": "Justice",
+      "has_synced": false,
+      "path": "select/10_New_Lands_-_Live___AAA_Justice.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "On'n'On - Live / AAA",
+      "artist": "Justice",
+      "has_synced": false,
+      "path": "select/11_On'n'On_-_Live___AAA_Justice.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "AAA Lights ~winter version~",
+      "artist": "AAA",
+      "has_synced": false,
+      "path": "select/pl_01_AAA_Lights_~winter_version~_AAA.txt"
+    }
+  ]
+}
